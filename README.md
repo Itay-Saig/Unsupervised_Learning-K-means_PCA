@@ -10,4 +10,4 @@ In this notebook, the following steps are performed:
 5. Some visulaization.
 6. Evaluate the performance of the clustering using Elbow methods, Siouhette analysis and accuracy.
 
-The notebook is based on 'Fake and real news dataset', and 'Fashion MNIST' datasets from Kaggle.
+The notebook is based on 'Fake and real news dataset', and 'Fashion MNIST' datasets from Kaggle, and was developed using Python.
